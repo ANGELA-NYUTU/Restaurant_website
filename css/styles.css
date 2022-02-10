@@ -42,8 +42,12 @@ img{
   float: right;
 }
 .menu{
-  background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmPeRWyBO87TI0JvyVU0iXsmwR0UNHYqCrchJX2piVBCdrpV0a");
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/512/802/415/tape-holiday-christmas-happy-new-year-wallpaper-preview.jpg") ;
   padding-right: 20px;
-  color: gold;
-  width: fit-content;
+  color: red;
+  padding: 100%;
+  font-style: italic;
+  font-style: oblique;
+  border: solid gold;
+  font-size: large;
 }
