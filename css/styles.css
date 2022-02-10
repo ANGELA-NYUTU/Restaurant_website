@@ -1,0 +1,49 @@
+.background{
+  background-image: url("C:\Users\Angela Nyutu\desktop\htmlcss\restaurant_website\img\background.jpeg");
+  background-position: center center; 
+  background-size: 100% 100%;
+}
+.topnav{
+  background-image: url("https://st2.depositphotos.com/1035649/7783/v/950/depositphotos_77833254-stock-illustration-restaurant-logo.jpg");
+}
+.topnav a {
+  float: left;
+  color: #320875;
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: none;
+  font-size: 19px;
+}
+.topnav a:hover {
+  background-color: #320875;
+  color: gold;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: gold;
+  color: #320875;
+}
+.intro{
+  text-align: left;
+  padding: 20px;
+  font-weight: bolder;
+  color: #320875;
+  font-style: oblique;
+  font-size: x-large;
+}
+.tag{
+  text-align: center;
+  font-style: italic;
+  font-weight: lighter;
+  color: gold;
+}
+img{
+  float: right;
+}
+.menu{
+  background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmPeRWyBO87TI0JvyVU0iXsmwR0UNHYqCrchJX2piVBCdrpV0a");
+  padding-right: 20px;
+  color: gold;
+  width: fit-content;
+}
