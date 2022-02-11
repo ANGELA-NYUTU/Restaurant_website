@@ -1,9 +1,9 @@
-.mybackground{
-  background-image: url("C:\Users\Angela Nyutu\desktop\htmlcss\restaurant_website\img\background.jpeg");
-  background-position: center center; 
+.mybackground {
+  background-image: url("https://st2.depositphotos.com/1035649/7783/v/950/depositphotos_77833254-stock-illustration-restaurant-logo.jpg");
+  background-position: center center;
   background-size: 100% 100%;
 }
-.mytopnav{
+.mytopnav {
   background-image: url("https://st2.depositphotos.com/1035649/7783/v/950/depositphotos_77833254-stock-illustration-restaurant-logo.jpg");
 }
 .mytopnav a {
@@ -24,7 +24,7 @@
   background-color: gold;
   color: #320875;
 }
-.myname{
+.myname {
   text-align: left;
   padding: 20px;
   font-weight: bolder;
@@ -32,17 +32,17 @@
   font-style: oblique;
   font-size: x-large;
 }
-.mytag{
+.mytag {
   text-align: center;
   font-style: italic;
   font-weight: lighter;
   color: gold;
 }
-img{
+img {
   float: right;
 }
-.mymenu{
-  background-image: url("https://c4.wallpaperflare.com/wallpaper/512/802/415/tape-holiday-christmas-happy-new-year-wallpaper-preview.jpg") ;
+.mymenu {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/512/802/415/tape-holiday-christmas-happy-new-year-wallpaper-preview.jpg");
   scroll-padding-bottom: 100px;
   color: red;
   width: 100%;
@@ -52,25 +52,25 @@ img{
   font-size: large;
   margin-right: 40px;
   margin-bottom: 30px;
-
 }
 
-.card{
-  border: dotted #320875 ;
+.card {
+  border: dotted #320875;
   margin: 10px;
   box-sizing: 50%;
-  
-  
 }
 .card-title {
   font-size: large;
   color: #320875;
   font-style: italic;
   font-weight: bold;
-} 
-.mylink{
-  color: gold;
 }
-.wines{
-  background-image: url("./");
+.mylink {
+  color: gold;
+  margin-bottom: 20px;
+}
+.wines {
+  background-color: #320875;
+  color: gold;
+  font-style: italic;
 }
